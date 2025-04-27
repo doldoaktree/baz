@@ -1,6 +1,1 @@
-A
-E
-
-
-A remote change
-
+hello, this is a new text
